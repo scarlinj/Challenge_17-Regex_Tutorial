@@ -1,6 +1,8 @@
 # Regex Tutorial
 
-In this tutorial, you will learn the fuctions of the regex to match an e-mail.
+In this tutorial, you will learn the fuctions of the regex to match an e-mail.  You can also find this tutorial in a github gist page at:
+
+https://gist.github.com/scarlinj/4048b2221e1899d3a103d912e53fe5b0
 
 ## Summary
 
